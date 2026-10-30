@@ -1,17 +1,16 @@
-# Quartz v4
+# How to Rock Climb! — wiki site
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Quartz v4 site for the LLM wiki built from John Long's *How to Rock Climb!*
+(source wiki: `~/Documents/org-notes/llm-wiki/other/how-to-rock-climb/wiki`).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Update content
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+```sh
+python3 sync-wiki.py   # regenerates content/ from the wiki
+npx quartz build --serve   # preview at http://localhost:8080
+git add -A && git commit -m "Sync wiki" && git push
+```
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Pushing to `v4` deploys to GitHub Pages via `.github/workflows/deploy.yml`.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Built with [Quartz](https://quartz.jzhao.xyz/).
