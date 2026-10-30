@@ -1,0 +1,131 @@
+sync-wiki.py
+  s_f7a7c320eaa110::t_fb780517804c76 1-73
+.github/workflows/deploy.yml
+  s_f7a7c320eaa110::t_59c1226a16ea52 1-45
+README.md
+  s_f7a7c320eaa110::t_75a8aec2080b43 1,3-4,6,8-12,14,16
+content/belay-anchor.md
+  s_f7a7c320eaa110::t_86e1694e5e2014 1-95
+content/belay-device.md
+  s_f7a7c320eaa110::t_9fc10ff31343b7 1-76
+content/belay.md
+  s_f7a7c320eaa110::t_1739702038c79b 1-87
+content/bolts.md
+  s_f7a7c320eaa110::t_2d5b3f1402f503 1-77
+content/bouldering.md
+  s_f7a7c320eaa110::t_68590df5ffc5ea 1-53
+content/camming-devices.md
+  s_f7a7c320eaa110::t_6665dfcaf2afe2 1-80
+content/carabiners.md
+  s_f7a7c320eaa110::t_8557f4bdb504cd 1-71
+content/chapter1-climbing-game.md
+  s_f7a7c320eaa110::t_63ee3162c0f661 1-40
+content/chapter10-responsibilities.md
+  s_f7a7c320eaa110::t_b4db059b361091 1-62
+content/chapter2-face-climbing.md
+  s_f7a7c320eaa110::t_d782ddeef253dd 1-40
+content/chapter3-crack-climbing.md
+  s_f7a7c320eaa110::t_b44ff999fe7376 1-50
+content/chapter4-ropes-anchors-belays.md
+  s_f7a7c320eaa110::t_fba921eb63c2be 1-69
+content/chapter5-belay-anchors.md
+  s_f7a7c320eaa110::t_69c7d715d802c2 1-72
+content/chapter6-art-of-leading.md
+  s_f7a7c320eaa110::t_d4eb80ff8ac7c6 1-90
+content/chapter7-getting-down.md
+  s_f7a7c320eaa110::t_0f0d07e072fe30 1-75
+content/chapter8-sport-climbing.md
+  s_f7a7c320eaa110::t_f17d33bebd9149 1-63
+content/chapter9-training.md
+  s_f7a7c320eaa110::t_11a3701c0df307 1-73
+content/chimney-and-stem.md
+  s_f7a7c320eaa110::t_3f48f32863ab42 1-52
+content/climbing-glossary.md
+  s_f7a7c320eaa110::t_be7a23c08a323a 1-269
+content/climbing-gym.md
+  s_f7a7c320eaa110::t_e2e00fcc981c90 1-75
+content/cordelette.md
+  s_f7a7c320eaa110::t_85930f12dca5e1 1-68
+content/crack-climbing.md
+  s_f7a7c320eaa110::t_8661d7adec77e4 1-63
+content/direction-of-pull.md
+  s_f7a7c320eaa110::t_244fe9ede204f2 1-78
+content/dynamic-climbing.md
+  s_f7a7c320eaa110::t_751f74a71fb3ef 1-48
+content/equipment.md
+  s_f7a7c320eaa110::t_687a4862c4f280 1-89
+content/face-climbing.md
+  s_f7a7c320eaa110::t_f4de09529722ee 1-54
+content/factor-2-fall.md
+  s_f7a7c320eaa110::t_829f5b986b9018 1-64
+content/falling.md
+  s_f7a7c320eaa110::t_f124b54118aa36 1-81
+content/footwork.md
+  s_f7a7c320eaa110::t_eaea215c381184 1-65
+content/free-soloing.md
+  s_f7a7c320eaa110::t_338cab2eb3b52e 1-59
+content/handholds.md
+  s_f7a7c320eaa110::t_006218c89922df 1-55
+content/harness-and-tie-in.md
+  s_f7a7c320eaa110::t_973938f2d22035 1-55
+content/index.md
+  s_f7a7c320eaa110::t_4b3f7c21cf5ebe 1-80
+content/jamming.md
+  s_f7a7c320eaa110::t_6d5b71d60379ae 1-59
+content/jesus-nut.md
+  s_f7a7c320eaa110::t_075ea492b29649 1-58
+content/knots.md
+  s_f7a7c320eaa110::t_b77f3ba6d0a578 1-85
+content/lead-climbing.md
+  s_f7a7c320eaa110::t_f7cd331551d5fe 1-89
+content/lieback.md
+  s_f7a7c320eaa110::t_5e7a5cdcb244f7 1-60
+content/natural-anchors.md
+  s_f7a7c320eaa110::t_005a54811b749e 1-58
+content/off-width-techniques.md
+  s_f7a7c320eaa110::t_41f7e6a36b5586 1-65
+content/passive-protection.md
+  s_f7a7c320eaa110::t_63c7bb623b03c4 1-69
+content/pitons.md
+  s_f7a7c320eaa110::t_0dae5eeaa7d08e 1-69
+content/rappel.md
+  s_f7a7c320eaa110::t_eb08dc30537432 1-106
+content/rigging-systems.md
+  s_f7a7c320eaa110::t_6759281cac047b 1-130
+content/rock-shoes.md
+  s_f7a7c320eaa110::t_11de06ca85348f 1-63
+content/rope.md
+  s_f7a7c320eaa110::t_1d88bebf910c50 1-78
+content/sport-climbing.md
+  s_f7a7c320eaa110::t_3b924ce57b3382 1-97
+content/srene.md
+  s_f7a7c320eaa110::t_4466af362f9c06 1-93
+content/toprope.md
+  s_f7a7c320eaa110::t_99fd391c498b70 1-65
+content/training.md
+  s_f7a7c320eaa110::t_24404c23447726 1-97
+content/webbing-and-cordage.md
+  s_f7a7c320eaa110::t_aba8b2c09c7060 1-61
+content/yosemite-decimal-system.md
+  s_f7a7c320eaa110::t_4cac2b12d2a9f1 1-70
+quartz.config.ts
+  s_f7a7c320eaa110::t_8cf5b52e4ba8f5 11,15,17
+quartz.layout.ts
+  s_f7a7c320eaa110::t_513e74edcaabc7 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2df6717b3924b439d35c82d932f07593b2dba55e",
+  "prompts": {},
+  "sessions": {
+    "s_f7a7c320eaa110": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b8d68118-ce64-4219-a573-b0d039d1e306",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "SLevantis <stefanos.levantis@agileactors.com>"
+    }
+  }
+}
